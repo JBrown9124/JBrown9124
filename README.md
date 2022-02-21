@@ -1,5 +1,7 @@
 ### Hi there 👋
-https://github-readme-stats.vercel.app/api?username=JBrown9124&count_private=true&show_icons=true&theme=chartreuse-dark
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=JBrown9124&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/JBrown9124)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBrown9124&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/JBrown9124)
+
 <!--
 **JBrown9124/JBrown9124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
