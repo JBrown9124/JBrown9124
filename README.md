@@ -15,6 +15,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=JBrown9124&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/JBrown9124)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBrown9124&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/JBrown9124)
 
 <!--
